@@ -1,0 +1,4 @@
+playwright~=1.31.1
+pytest~=7.2.2
+pytest-playwright~=0.3.2
+allure-pytest~=2.13.0
